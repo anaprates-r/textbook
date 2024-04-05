@@ -1,41 +1,10 @@
-Chapter 1: Introduction
+Capítulo 1 Introdução
 =======================
 
-Data are descriptions of the world around us, collected through observation and
-stored on computers. Computers enable us to infer properties of the world from
-these descriptions. Data science is the discipline of drawing conclusions from
-data using computation. There are three core aspects of effective data
-analysis: exploration, prediction, and inference. This text develops a
-consistent approach to all three, introducing statistical ideas and fundamental
-ideas in computer science concurrently. We focus on a minimal set of core
-techniques that can be applied to a vast range of real-world
-applications. A foundation in data science requires not only understanding
-statistical and computational techniques, but also recognizing how they apply
-to real scenarios.
+Os dados são descrições do mundo que nos rodeia, recolhidos através da observação e armazenados em computadores. Os computadores permitem-nos inferir propriedades do mundo a partir destas descrições. Ciência de dados é a disciplina que tira conclusões de dados usando computação. Existem três aspectos principais da análise de dados eficaz: exploração, previsão e inferência. Este texto desenvolve uma abordagem consistente para todos os três, introduzindo ideias estatísticas e ideias fundamentais na ciência da computação simultaneamente. Nós nos concentramos em um conjunto mínimo de técnicas básicas que podem ser aplicadas a uma vasta gama de aplicações do mundo real. Uma base em ciência de dados requer não apenas a compreensão de técnicas estatísticas e computacionais, mas também o reconhecimento de como elas se aplicam a cenários reais.
 
-For whatever aspect of the world we wish to study—whether it's the Earth's
-weather, the world's markets, political polls, or the human mind—data we
-collect typically offer an incomplete description of the subject at hand. A
-central challenge of data science is to make reliable conclusions using this
-partial information.
+Para qualquer aspecto do mundo que desejemos estudar – seja o clima da Terra, os mercados mundiais, as pesquisas políticas ou a mente humana – os dados que coletamos normalmente oferecem uma descrição incompleta do assunto em questão. Um desafio central da ciência de dados é tirar conclusões confiáveis ​​usando essas informações parciais.
 
-In this endeavor, we will combine two essential tools: computation and
-randomization. For example, we may want to understand climate change trends
-using temperature observations. Computers will allow us to use all available
-information to draw conclusions. Rather than focusing only on the average
-temperature of a region, we will consider the whole range of temperatures
-together to construct a more nuanced analysis. Randomness will allow us to
-consider the many different ways in which incomplete information might be
-completed. Rather than assuming that temperatures vary in a particular way, we
-will learn to use randomness as a way to imagine many possible scenarios that
-are all consistent with the data we observe.
+Nesta empreitada, combinaremos duas ferramentas essenciais: computação e randomização. Por exemplo, podemos querer compreender as tendências das alterações climáticas utilizando observações de temperatura. Os computadores nos permitirão usar todas as informações disponíveis para tirar conclusões. Em vez de nos concentrarmos apenas na temperatura média de uma região, consideraremos toda a gama de temperaturas em conjunto para construir uma análise mais matizada. A aleatoriedade nos permitirá considerar as muitas maneiras diferentes pelas quais informações incompletas podem ser completadas. Em vez de assumir que as temperaturas variam de uma forma particular, aprenderemos a usar a aleatoriedade como forma de imaginar muitos cenários possíveis, todos consistentes com os dados que observamos.
 
-Applying this approach requires learning to program a computer, and so this
-text interleaves a complete introduction to programming that assumes no prior
-knowledge. Readers with programming experience will find that we cover several
-topics in computation that do not appear in a typical introductory computer
-science curriculum. Data science also requires careful reasoning about numerical
-quantities, but this text does not assume any background in mathematics or
-statistics beyond basic algebra. You will find very few equations in this text.
-Instead, techniques are described to readers in the same language in which they
-are described to the computers that execute them—a programming language.
+Aplicar esta abordagem requer aprender a programar um computador e, portanto, este texto intercala uma introdução completa à programação que não pressupõe nenhum conhecimento prévio. Os leitores com experiência em programação descobrirão que cobrimos vários tópicos de computação que não aparecem em um currículo introdutório típico de ciência da computação. A ciência de dados também exige um raciocínio cuidadoso sobre quantidades numéricas, mas este texto não pressupõe qualquer formação em matemática ou estatística além da álgebra básica. Você encontrará muito poucas equações neste texto. Em vez disso, as técnicas são descritas aos leitores na mesma linguagem em que são descritas aos computadores que as executam – uma linguagem de programação.
