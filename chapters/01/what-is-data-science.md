@@ -1,21 +1,6 @@
-What is Data Science?
+O que é ciência de dados?
 ====================
 
-Data Science is about drawing useful conclusions from large and diverse data
-sets through exploration, prediction, and inference.  Exploration involves
-identifying patterns in information.  Prediction involves using information
-we know to make informed guesses about values we wish we knew.  Inference
-involves quantifying our degree of certainty: will the patterns that we found in our data also appear in new observations? How accurate are our predictions? Our primary
-tools for exploration are visualizations and descriptive statistics, for
-prediction are machine learning and optimization, and for inference are
-statistical tests and models.
+Ciência de Dados trata de tirar conclusões úteis de conjuntos de dados grandes e diversos por meio de exploração, previsão e inferência. A exploração envolve a identificação de padrões nas informações. A previsão envolve o uso de informações que conhecemos para fazer suposições informadas sobre valores que gostaríamos de saber. A inferência envolve quantificar o nosso grau de certeza: os padrões que encontramos nos nossos dados também aparecerão em novas observações? Quão precisas são nossas previsões? Nossas principais ferramentas para exploração são visualizações e estatísticas descritivas, para previsão são aprendizado de máquina e otimização e para inferência são testes e modelos estatísticos.
 
-Statistics is a central component of data science because statistics
-studies how to make robust conclusions based on incomplete information. Computing
-is a central component because programming allows us to apply analysis
-techniques to the large and diverse data sets that arise in real-world
-applications: not just numbers, but text, images, videos, and sensor readings.
-Data science is all of these things, but it is more than the sum of its parts
-because of the applications. Through understanding a particular domain, data
-scientists learn to ask appropriate questions about their data and correctly
-interpret the answers provided by our inferential and computational tools.
+A estatística é um componente central da ciência de dados porque a estatística estuda como tirar conclusões robustas com base em informações incompletas. A computação é um componente central porque a programação nos permite aplicar técnicas de análise aos grandes e diversos conjuntos de dados que surgem em aplicações do mundo real: não apenas números, mas textos, imagens, vídeos e leituras de sensores. Ciência de dados é tudo isso, mas é mais do que a soma de suas partes por causa das aplicações. Ao compreender um domínio específico, os cientistas de dados aprendem a fazer perguntas apropriadas sobre seus dados e a interpretar corretamente as respostas fornecidas por nossas ferramentas inferenciais e computacionais.
