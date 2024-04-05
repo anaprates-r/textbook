@@ -1,28 +1,9 @@
-Statistical Techniques
+Técnicas Estatísticas
 ======================
 
-The discipline of statistics has long addressed the same fundamental challenge
-as data science: how to draw robust conclusions about the world using incomplete
-information. One of the most important contributions of statistics is a
-consistent and precise vocabulary for describing the relationship between
-observations and conclusions. This text continues in the same tradition,
-focusing on a set of core inferential problems from statistics: testing
-hypotheses, estimating confidence, and predicting unknown quantities.
+A disciplina de estatística há muito que aborda o mesmo desafio fundamental da ciência de dados: como tirar conclusões sólidas sobre o mundo utilizando informações incompletas. Uma das contribuições mais importantes da estatística é um vocabulário consistente e preciso para descrever a relação entre observações e conclusões. Este texto continua na mesma tradição, concentrando-se em um conjunto de problemas inferenciais centrais da estatística: testar hipóteses, estimar a confiança e prever quantidades desconhecidas.
 
-Data science extends the field of statistics by taking full advantage of
-computing, data visualization, machine learning, optimization, and access 
-to information. The combination of fast computers and the Internet gives 
-anyone the ability to access and analyze
-vast datasets: millions of news articles, full encyclopedias, databases for
-any domain, and massive repositories of music, photos, and video.
+A ciência de dados amplia o campo da estatística aproveitando ao máximo a computação, visualização de dados, aprendizado de máquina, otimização e acesso à informação. A combinação de computadores rápidos e da Internet dá a qualquer pessoa a capacidade de aceder e analisar vastos conjuntos de dados: milhões de artigos noticiosos, enciclopédias completas, bases de dados para qualquer domínio e repositórios enormes de música, fotos e vídeos.
 
-Applications to real data sets motivate the statistical techniques that we
-describe throughout the text. Real data often do not follow regular patterns or
-match standard equations. The interesting variation in real data can be lost by
-focusing too much attention on simplistic summaries such as average values.
-Computers enable a family of methods based on resampling that apply to a wide
-range of different inference problems, take into account all available
-information, and require few assumptions or conditions. Although these
-techniques have often been reserved for advanced courses in statistics, their
-flexibility and simplicity are a natural fit for data science applications.
+As aplicações a conjuntos de dados reais motivam as técnicas estatísticas que descrevemos ao longo do texto. Os dados reais muitas vezes não seguem padrões regulares ou não correspondem às equações padrão. A variação interessante nos dados reais pode ser perdida se se concentrar demasiada atenção em resumos simplistas, como valores médios. Os computadores permitem uma família de métodos baseados em reamostragem que se aplicam a uma ampla gama de diferentes problemas de inferência, levam em conta todas as informações disponíveis e exigem poucas suposições ou condições. Embora essas técnicas tenham sido frequentemente reservadas para cursos avançados de estatística, sua flexibilidade e simplicidade são uma opção natural para aplicações de ciência de dados.
 
