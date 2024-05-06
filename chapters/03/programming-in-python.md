@@ -1,12 +1,6 @@
-Programming in Python
+Progamando em Python
 =====================
 
-Programming can dramatically improve our ability to collect and analyze information
-about the world, which in turn can lead to discoveries through the kind of careful
-reasoning demonstrated in the previous section. In data science, the purpose of
-writing a program is to instruct a computer to carry out the steps of an analysis.
-Computers cannot study the world on their own. People must describe precisely what
-steps the computer should take in order to collect and analyze data, and those steps
-are expressed through programs.
+Programar pode melhorar drasticamente nossa capacidade de coletar e analisar informações sobre o mundo, o que por sua vez pode levar a descobertas por meio do tipo de raciocínio cuidadoso demonstrado na seção anterior. Na ciência de dados, o propósito de escrever um programa é instruir um computador a realizar as etapas de uma análise. Computadores não podem estudar o mundo por conta própria. As pessoas devem descrever precisamente quais etapas o computador deve seguir para coletar e analisar dados, e essas etapas são expressas por meio de programas.
 
 
