@@ -1,39 +1,22 @@
-Snow’s “Grand Experiment”
+**O "Grande Experimento" de Snow**
 =========================
 
-Encouraged by what he had learned in Soho, Snow completed a more thorough
-analysis. For some time, he had been gathering data on cholera
-deaths in an area of London that was served by two water companies. The Lambeth
-water company drew its water upriver from where sewage was discharged into the
-River Thames. Its water was relatively clean. But the Southwark and Vauxhall
-(S&V) company drew its water below the sewage discharge, and thus its supply was
-contaminated.
+Encorajado pelo que aprendeu em Soho, Snow completou uma análise mais minuciosa. Por algum tempo, ele vinha coletando dados sobre mortes por cólera em uma área de Londres atendida por duas companhias de água. A companhia de água de Lambeth retirava sua água rio acima, de onde o esgoto era descarregado no rio Tâmisa. Sua água era relativamente limpa. Mas a companhia de água de Southwark e Vauxhall (S&V) retirava sua água abaixo do ponto de descarga de esgoto, e assim seu fornecimento estava contaminado.
 
-The map below shows the areas served by the two companies. Snow honed in on the region where the two service areas overlap.
-![Snow’s Other Map](../../../images/snow_map2.jpg)
+O mapa abaixo mostra as áreas atendidas pelas duas empresas. Snow concentrou-se na região onde as duas áreas de serviço se sobrepõem.
+![Outro Mapa de Snow](../../../images/snow_map2.jpg)
 
-Snow noticed that there was no systematic difference between the people who were
-supplied by S&V and those supplied by Lambeth. “Each company supplies both rich
-and poor, both large houses and small; there is no difference either in the
-condition or occupation of the persons receiving the water of the different
-Companies … there is no difference whatever in the houses or the people
-receiving the supply of the two Water Companies, or in any of the physical
-conditions with which they are surrounded …”
+Snow notou que não havia diferença sistemática entre as pessoas que eram fornecidas pela S&V e aquelas fornecidas pela Lambeth. "Cada empresa fornece tanto ricos quanto pobres, tanto casas grandes quanto pequenas; não há diferença nem na condição nem na ocupação das pessoas que recebem a água das diferentes empresas ... não há diferença alguma nas casas ou nas pessoas que recebem o abastecimento das duas Companhias de Água, ou em quaisquer das condições físicas com as quais estão cercadas ..."
 
-The only difference was in the water supply, “one group being supplied with
-water containing the sewage of London, and amongst it, whatever might have come
-from the cholera patients, the other group having water quite free from
-impurity.”
+A única diferença estava no abastecimento de água, "um grupo sendo abastecido com água contendo o esgoto de Londres, e entre ele, o que poderia ter vindo dos pacientes de cólera, o outro grupo tendo água completamente livre de impurezas."
 
-Confident that he would be able to arrive at a clear conclusion, Snow summarized
-his data in the table below.
+Confiantes de que seriam capazes de chegar a uma conclusão clara, Snow resumiu seus dados na tabela abaixo.
 
-| Supply Area    | Number of houses | cholera deaths | deaths per 10,000 houses |
-|----------------|------------------|----------------|--------------------------|
-| S&V            | 40,046           | 1,263          | 315                      |
-| Lambeth        | 26,107           | 98             | 37                       |
-| Rest of London | 256,423          | 1,422          | 59                       |
+| Área de Abastecimento | Número de Casas | Mortes por cólera | Mortes por 10.000 casas |
+|-----------------------|------------------|-------------------|--------------------------|
+| S&V                   | 40.046           | 1.263             | 315                      |
+| Lambeth               | 26.107           | 98                | 37                       |
+| Restante de Londres   | 256.423          | 1.422             | 59                       |
 
 
-The numbers pointed accusingly at S&V. The death rate from cholera in the S&V
-houses was almost ten times the rate in the houses supplied by Lambeth.
+Os números apontavam acusadoramente para a S&V. A taxa de mortalidade por cólera nas casas da S&V era quase dez vezes maior do que a taxa nas casas fornecidas pela Lambeth.
