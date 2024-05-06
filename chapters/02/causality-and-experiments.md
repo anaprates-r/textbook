@@ -1,40 +1,16 @@
-Causality and Experiments
+Causalidade e Experimentos
 =========================
 
-*"These problems are, and will probably ever remain, among the inscrutable
-secrets of nature. They belong to a class of questions radically inaccessible to
-the human intelligence."* —The Times of London, September 1849, on how cholera
-is contracted and spread
+*"Esses problemas são, e provavelmente sempre serão, entre os segredos inscrutáveis da natureza. Eles pertencem a uma classe de perguntas radicalmente inacessíveis à inteligência humana."* —The Times of London, setembro de 1849, sobre como a cólera é contraída e espalhada
 
-Does the death penalty have a deterrent effect? Is chocolate good for you? What
-causes breast cancer?
+A pena de morte tem um efeito dissuasivo? Chocolate faz bem para você? O que causa câncer de mama?
 
-All of these questions attempt to assign a cause to an effect. A careful
-examination of data can help shed light on questions like these. In this section
-you will learn some of the fundamental concepts involved in establishing
-causality.
+Todas essas perguntas tentam atribuir uma causa a um efeito. Uma análise cuidadosa dos dados pode ajudar a esclarecer questões como essas. Nesta seção, você aprenderá alguns dos conceitos fundamentais envolvidos no estabelecimento de causalidade.
 
-Observation is a key to good science. An *observational study* is one in which
-scientists make conclusions based on data that they have observed but had no
-hand in generating. In data science, many such studies involve observations on a
-group of individuals, a factor of interest called a *treatment*, and an
-*outcome* measured on each individual.
+A observação é fundamental para uma boa ciência. Um *estudo observacional* é aquele em que os cientistas fazem conclusões com base em dados que observaram, mas não tiveram participação na geração. Na ciência de dados, muitos estudos desse tipo envolvem observações sobre um grupo de indivíduos, um fator de interesse chamado *tratamento*, e um *resultado* medido em cada indivíduo.
 
-It is easiest to think of the individuals as people. In a study of whether
-chocolate is good for the health, the individuals would indeed be people, the
-treatment would be eating chocolate, and the outcome might be a measure of heart disease. But individuals in observational studies need not be people. In a
-study of whether the death penalty has a deterrent effect, the individuals could
-be the 50 states of the union. A state law allowing the death penalty would be
-the treatment, and an outcome could be the state’s murder rate.
+É mais fácil pensar nos indivíduos como pessoas. Em um estudo sobre se o chocolate faz bem para a saúde, os indivíduos realmente seriam pessoas, o tratamento seria comer chocolate, e o resultado poderia ser uma medida de doenças cardíacas. Mas os indivíduos em estudos observacionais não precisam ser pessoas. Em um estudo sobre se a pena de morte tem um efeito dissuasivo, os indivíduos poderiam ser os 50 estados da união. Uma lei estadual que permite a pena de morte seria o tratamento, e um resultado poderia ser a taxa de homicídios do estado.
 
-The fundamental question is whether the treatment has an effect on the outcome.
-Any relation between the treatment and the outcome is called an *association*.
-If the treatment causes the outcome to occur, then the association is *causal*.
-*Causality* is at the heart of all three questions posed at the start of this
-section. For example, one of the questions was whether chocolate directly causes
-improvements in health, not just whether there there is a relation between
-chocolate and health.
+A questão fundamental é se o tratamento tem um efeito sobre o resultado. Qualquer relação entre o tratamento e o resultado é chamada de *associação*. Se o tratamento faz com que o resultado ocorra, então a associação é *causal*. *Causalidade* é o cerne de todas as três perguntas feitas no início desta seção. Por exemplo, uma das perguntas foi se o chocolate causa diretamente melhorias na saúde, não apenas se há uma relação entre chocolate e saúde.
 
-The establishment of causality often takes place in two stages. First, an
-association is observed. Next, a more careful analysis leads to a decision about
-causality.
+O estabelecimento da causalidade muitas vezes ocorre em duas etapas. Primeiro, uma associação é observada. Em seguida, uma análise mais cuidadosa leva a uma decisão sobre causalidade.
