@@ -1,53 +1,32 @@
-Terminology and Further Reading
-=======
+**Terminologia neste capítulo**
 
-**Terminology in this chapter**
-
-* observational study
-* treatment
-* outcome
-* association
-* causal association
-* causality
-* comparison
-* treatment group
-* control group
-* epidemiology
-* confounding
-* randomization
-* randomized controlled experiment
-* randomized controlled trial (RCT)
-* blind
+* estudo observacional
+* tratamento
+* resultado
+* associação
+* associação causal
+* causalidade
+* comparação
+* grupo de tratamento
+* grupo de controle
+* epidemiologia
+* fator de confusão
+* randomização
+* experimento controlado randomizado
+* ensaio clínico randomizado (ECR)
+* cego
 * placebo
 
-**Fun facts**
+**Curiosidades**
 
-1. John Snow is sometimes called the father of epidemiology, but he was an
-   anesthesiologist by profession. One of his patients was Queen Victoria, who
-   was an early recipient of anesthetics during childbirth.
+1. John Snow às vezes é chamado de pai da epidemiologia, mas ele era anestesista por profissão. Uma de suas pacientes foi a Rainha Vitória, que foi uma das primeiras a receber anestesia durante o parto.
 
-2. Florence Nightingale, the originator of modern nursing practices and famous
-   for her work in the Crimean War, was a die-hard miasmatist. She had no time
-   for theories about contagion and germs, and was not one for mincing her
-   words. “There is no end to the absurdities connected with this doctrine,” she
-   said. “Suffice it to say that in the ordinary sense of the word, there is no
-   proof such as would be admitted in any scientific enquiry that there is any
-   such thing as contagion.”
+2. Florence Nightingale, a precursora das práticas modernas de enfermagem e famosa por seu trabalho na Guerra da Crimeia, era uma fervorosa defensora da teoria dos miasmas. Ela não tinha tempo para teorias sobre contágio e germes, e não tinha papas na língua. "Não há fim para as absurdidades associadas a esta doutrina", disse ela. "Basta dizer que, no sentido comum da palavra, não há prova que seria admitida em qualquer investigação científica de que existe tal coisa como contágio."
 
-3. A later RCT established that the conditions on which PROGRESA insisted—children
-   going to school, preventive health care—were not necessary to
-   achieve increased enrollment. Just the financial boost of the welfare
-   payments was sufficient.
+3. Um ECR posterior estabeleceu que as condições exigidas pelo PROGRESA - crianças frequentando a escola, cuidados de saúde preventivos - não eram necessárias para alcançar um aumento na matrícula. Apenas o impulso financeiro dos pagamentos de assistência social foi suficiente.
 
+**Boas leituras**
 
-**Good reads**
+*The Strange Case of the Broad Street Pump: John Snow and the Mystery of Cholera* por Sandra Hempel, publicado pela nossa própria University of California Press, lê-se como um quebra-cabeça policial. Foi uma das principais fontes para a narrativa deste capítulo sobre John Snow e seu trabalho. Um aviso: alguns dos conteúdos do livro são perturbadores.
 
-*The Strange Case of the Broad Street Pump: John Snow and the Mystery of
-Cholera* by Sandra Hempel,
-published by our own University of California Press, reads like a whodunit. It
-was one of the main sources for this section's account of John Snow and his
-work. A word of warning: some of the contents of the book are stomach-churning.
-
-[*Poor Economics*](http://www.pooreconomics.com), the best seller by Abhijit Banerjee and Esther Duflo of MIT, is an accessible and lively account of ways to
-fight global poverty. It includes numerous examples of RCTs, including the
-PROGRESA example in this chapter. In 2019, Banerjee, Duflo, and Michael Kremer received the [Nobel Prize in Economics](https://www.nobelprize.org/prizes/economic-sciences/2019/press-release/), in part for showing that "questions are often best answered via carefully designed experiments."  
+[*Poor Economics*](http://www.pooreconomics.com), o best-seller de Abhijit Banerjee e Esther Duflo do MIT, é um relato acessível e animado de maneiras de combater a pobreza global. Inclui numerosos exemplos de ECRs, incluindo o exemplo do PROGRESA neste capítulo. Em 2019, Banerjee, Duflo e Michael Kremer receberam o [Prêmio Nobel de Economia](https://www.nobelprize.org/prizes/economic-sciences/2019/press-release/), em parte por mostrarem que "as perguntas muitas vezes são melhor respondidas por meio de experimentos cuidadosamente projetados."
