@@ -1,95 +1,38 @@
-Observation and Visualization: John Snow and the Broad Street Pump
+Observação e Visualização: John Snow e a Bomba da Broad Street
 ==================================================================
 
-One of the most powerful examples of astute observation eventually leading to the
-establishment of causality dates back more than 150 years. To get your mind into
-the right timeframe, try to imagine London in the 1850’s. It was the world’s
-wealthiest city but many of its people were desperately poor. Charles Dickens,
-then at the height of his fame, was writing about their plight. Disease was rife
-in the poorer parts of the city, and cholera was among the most feared. It was
-not yet known that germs cause disease; the leading theory was that “miasmas”
-were the main culprit. Miasmas manifested themselves as bad smells, and were
-thought to be invisible poisonous particles arising out of decaying matter.
-Parts of London did smell very bad, especially in hot weather. To protect
-themselves against infection, those who could afford to held sweet-smelling
-things to their noses.
+Um dos exemplos mais poderosos de observação perspicaz eventualmente levando ao estabelecimento de causalidade remonta a mais de 150 anos. Para situar sua mente no período correto, tente imaginar Londres na década de 1850. Era a cidade mais rica do mundo, mas muitos de seus habitantes eram desesperadamente pobres. Charles Dickens, então no auge de sua fama, escrevia sobre suas dificuldades. A doença era endêmica nas partes mais pobres da cidade, e a cólera estava entre as mais temidas. Ainda não se sabia que germes causavam doenças; a teoria predominante era que os "miasmas" eram os principais culpados. Os miasmas se manifestavam como maus odores e eram considerados partículas venenosas invisíveis que surgiam da matéria em decomposição. Partes de Londres cheiravam muito mal, especialmente no calor. Para se protegerem contra a infecção, aqueles que podiam se permitir seguravam coisas de cheiro doce em seus narizes.
 
-For several years, a doctor by the name of John Snow had been following the
-devastating waves of cholera that hit England from time to time. The disease
-arrived suddenly and was almost immediately deadly: people died within a day or
-two of contracting it, hundreds could die in a week, and the total death toll in
-a single wave could reach tens of thousands. Snow was skeptical of the miasma
-theory. He had noticed that while entire households were wiped out by cholera,
-the people in neighboring houses sometimes remained completely unaffected. As
-they were breathing the same air—and miasmas—as their neighbors, there was no
-compelling association between bad smells and the incidence of cholera.
+Por vários anos, um médico chamado John Snow vinha acompanhando as ondas devastadoras de cólera que atingiam a Inglaterra de tempos em tempos. A doença chegava de repente e era quase imediatamente mortal: as pessoas morriam em um ou dois dias após contraí-la, centenas podiam morrer em uma semana, e o número total de mortes em uma única onda podia chegar a dezenas de milhares. Snow era cético em relação à teoria dos miasmas. Ele havia observado que enquanto casas inteiras eram dizimadas pela cólera, as pessoas nas casas vizinhas às vezes permaneciam completamente ilesas. Como estavam respirando o mesmo ar — e miasmas — que seus vizinhos, não havia uma associação convincente entre maus odores e a incidência de cólera.
 
-Snow had also noticed that the onset of the disease almost always involved
-vomiting and diarrhea. He therefore believed that the infection was carried by
-something people ate or drank, not by the air that they breathed. His prime
-suspect was water contaminated by sewage.
+Snow também havia observado que o início da doença quase sempre envolvia vômitos e diarréia. Ele acreditava, portanto, que a infecção era transmitida por algo que as pessoas comiam ou bebiam, não pelo ar que respiravam. Seu principal suspeito era a água contaminada por esgoto.
 
-At the end of August 1854, cholera struck in the overcrowded Soho district of
-London. As the deaths mounted, Snow recorded them diligently, using a method
-that went on to become standard in the study of how diseases spread: *he drew a
-map*. On a street map of the district, he recorded the location of each death.
+No final de agosto de 1854, a cólera atingiu o superlotado distrito de Soho, em Londres. À medida que as mortes aumentavam, Snow as registrava diligentemente, usando um método que viria a se tornar padrão no estudo de como as doenças se espalham: *ele desenhou um mapa*. Em um mapa de rua do distrito, ele registrou a localização de cada morte.
 
-Here is Snow’s original map. Each black bar represents one death. When there are multiple deaths at the same address, the bars corresponding to those deaths are stacked on top of each other. The black
-discs mark the locations of water pumps. The map displays a striking
-revelation—the deaths are roughly clustered around the Broad Street pump.
-![Snow’s Cholera Map](../../../images/snow_map.jpg)
+Aqui está o mapa original de Snow. Cada barra preta representa uma morte. Quando há várias mortes no mesmo endereço, as barras correspondentes a essas mortes são empilhadas uma sobre a outra. Os discos pretos marcam as localizações das bombas de água. O mapa exibe uma revelação impressionante — as mortes estão aproximadamente agrupadas em torno da bomba da Broad Street.
+![Mapa da Cólera de Snow](../../../images/snow_map.jpg)
 
-Snow studied his map carefully and investigated the apparent anomalies. All of
-them implicated the Broad Street pump. For example:
-- There were deaths in houses that were nearer the Rupert Street pump than the
-  Broad Street pump. Though the Rupert Street pump was closer as the crow flies,
-  it was less convenient to get to because of dead ends and the layout of the
-  streets. The residents in those houses used the Broad Street pump instead.
-- There were no deaths in two blocks just east of the pump. That was the
-  location of the Lion Brewery, where the workers drank what they brewed. If
-  they wanted water, the brewery had its own well.
-- There were scattered deaths in houses several blocks away from the Broad
-  Street pump. Those were children who drank from the Broad Street pump on their
-  way to school. The pump’s water was known to be cool and refreshing.
+Snow estudou seu mapa cuidadosamente e investigou as aparentes anomalias. Todas elas implicavam a bomba da Broad Street. Por exemplo:
+- Havia mortes em casas que estavam mais próximas da bomba da Rupert Street do que da bomba da Broad Street. Embora a bomba da Rupert Street estivesse mais próxima em linha reta, era menos conveniente devido a becos sem saída e ao layout das ruas. Os moradores dessas casas usavam a bomba da Broad Street.
+- Não houve mortes em dois quarteirões a leste da bomba. Esse era o local da Lion Brewery, onde os trabalhadores bebiam o que fabricavam. Se eles precisassem de água, a cervejaria tinha seu próprio poço.
+- Havia mortes dispersas em casas a várias quadras de distância da bomba da Broad Street. Eram crianças que bebiam da bomba da Broad Street a caminho da escola. A água da bomba era conhecida por ser fresca e refrescante.
 
-The final piece of evidence in support of Snow’s theory was provided by two
-isolated deaths in the leafy and genteel Hampstead area, quite far from Soho.
-Snow was puzzled by these until he learned that the deceased were Mrs. Susannah
-Eley, who had once lived in Broad Street, and her niece. Mrs. Eley had water
-from the Broad Street pump delivered to her in Hampstead every day. She liked
-its taste.
+A última peça de evidência a favor da teoria de Snow foi fornecida por duas mortes isoladas na área arborizada e gentil de Hampstead, bastante longe de Soho. Snow ficou intrigado com isso até descobrir que as falecidas eram a Sra. Susannah Eley, que havia morado na Broad Street, e sua sobrinha. A Sra. Eley recebia água da bomba da Broad Street entregue em Hampstead todos os dias. Ela gostava do seu sabor.
 
-Later it was discovered that a cesspit that was just a few feet away from the
-well of the Broad Street pump had been leaking into the well. Thus the pump’s
-water was contaminated by sewage from the houses of cholera victims.
+Mais tarde, descobriu-se que um poço de esgoto que ficava a poucos metros de distância do poço da bomba da Broad Street estava vazando para o poço. Assim, a água da bomba foi contaminada pelo esgoto das casas das vítimas da cólera.
 
-Snow used his map to convince local authorities to remove the handle of the
-Broad Street pump. Though the cholera epidemic was already on the wane when he
-did so, it is possible that the disabling of the pump prevented many deaths from
-future waves of the disease.
+Snow usou seu mapa para convencer as autoridades locais a remover a manivela da bomba da Broad Street. Embora a epidemia de cólera já estivesse diminuindo quando ele o fez, é possível que a desativação da bomba tenha evitado muitas mortes de futuras ondas da doença.
 
-The removal of the Broad Street pump handle has become the stuff of legend. At
-the Centers for Disease Control (CDC) in Atlanta, when scientists look for
-simple answers to questions about epidemics, they sometimes ask each other,
-“Where is the handle to this pump?”
+A remoção da manivela da bomba da Broad Street tornou-se lenda. No Centro de Controle de Doenças (CDC) em Atlanta, quando os cientistas buscam respostas simples para perguntas sobre epidemias, às vezes eles perguntam uns aos outros, "Onde está a manivela desta bomba?"
 
-Snow’s map is one of the earliest and most powerful uses of data visualization.
-Disease maps of various kinds are now a standard tool for tracking epidemics.
+O mapa de Snow é um dos usos mais antigos e poderosos de visualização de dados. Mapas de doenças de vários tipos agora são uma ferramenta padrão para rastrear epidemias.
 
-**Towards Causality**
+**Em Direção à Causalidade**
 
-Though the map gave Snow a strong indication that  the cleanliness of the water
-supply was the key to controlling cholera, he was still a long way from a
-convincing scientific argument that contaminated water was causing the spread of
-the disease. To make a more compelling case, he had to use the method of
-*comparison*.
+Embora o mapa tenha dado a Snow uma forte indicação de que a limpeza do abastecimento de água era a chave para controlar a cólera, ele ainda estava longe de um argumento científico convincente de que a água contaminada estava causando a disseminação da doença. Para fazer um caso mais convincente, ele teve que usar o método de *comparação*.
 
-Scientists use comparison to identify an association between a treatment and an
-outcome. They compare the outcomes of a group of individuals who got the
-treatment (the *treatment group*) to the outcomes of a group who did not (the
-*control group*). For example, researchers today might compare the average
-murder rate in states that have the death penalty with the average murder rate
-in states that don’t.
+Os cientistas usam a comparação para identificar uma associação entre um tratamento e um resultado. Eles comparam os
 
-If the results are different, that is evidence for an association. To determine
-causation, however, even more care is needed.
+ resultados de um grupo de indivíduos que receberam o tratamento (o *grupo de tratamento*) com os resultados de um grupo que não recebeu (o *grupo de controle*). Por exemplo, os pesquisadores hoje podem comparar a taxa média de homicídios nos estados que têm a pena de morte com a taxa média de homicídios nos estados que não têm.
+
+Se os resultados forem diferentes, isso é evidência de uma associação. No entanto, para determinar a causalidade, é necessário ainda mais cuidado.
